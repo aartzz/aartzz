@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi there 👋 I'm aartzz
 
-<!--
-**aartzz/aartzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**16 y.o. · vibecoding final boss** · 🇺🇦 Ukraine
 
-Here are some ideas to get you started:
+> i code whatever — and something cool comes out
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 📦 Projects
+
+| Project | Description |
+|---|---|
+| [**xdAnswers**](https://github.com/aartzz/xdAnswers) | 🧪 Open-source browser extension that helps you breeze through tests |
+| [**UAFilms**](https://films.aartzz.pp.ua/) | 🎬 Ukrainian movie streaming service. Backend + frontend |
+| [**Music Bot**](https://t.me/aartzz_music_bot) | 🎵 Telegram bot for music |
+| [**pp123**](https://pp.aartzz.pp.ua/) | 🏠 Ukrainian Private Minecraft SMP, invite only |
+| [**SvinoCraft**](https://svin.aartzz.pp.ua/) | 🐷 Ukrainian Political Minecraft Server |
+
+---
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aartzz&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aartzz&theme=tokyonight)
+
+---
+
+*"Vibecoding > Documenting"* 🚀
