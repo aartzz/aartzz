@@ -22,10 +22,10 @@
 | Project | Description |
 |---|---|
 | [**xdAnswers**](https://github.com/aartzz/xdAnswers) | 🧪 Open-source browser extension that helps you breeze through tests |
-| [**UAFilms**](https://films.aartzz.pp.ua/) | 🎬 Ukrainian movie streaming service. Backend + frontend |
-| [**Music Bot**](https://t.me/aartzz_music_bot) | 🎵 Telegram bot for music |
-| [**pp123**](https://pp.aartzz.pp.ua/) | 🏠 Ukrainian Private Minecraft SMP, invite only |
-| [**SvinoCraft**](https://svin.aartzz.pp.ua/) | 🐷 Ukrainian Political Minecraft Server |
+| [**UAFilms**](https://github.com/uafilms) | 🎬 Ukrainian movie streaming service. Backend + frontend |
+| [**Music Bot**](https://github.com/aartzz/music-tgbot) | 🎵 Telegram bot for music _(dead)_ |
+| [**pp123**](https://pp.aartzz.pp.ua/) | 🏠 Ukrainian private Minecraft SMP, invite only _(dead)_ |
+| [**SvinoCraft**](https://svin.aartzz.pp.ua/) | 🐷 Ukrainian political Minecraft Server |
 
 ---
 
