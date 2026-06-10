@@ -25,7 +25,7 @@
 | [**UAFilms**](https://github.com/uafilms) | 🎬 Ukrainian movie streaming service. Backend + frontend |
 | [**Music Bot**](https://github.com/aartzz/music-tgbot) | 🎵 Telegram bot for music _(dead)_ |
 | [**pp123**](https://pp.aartzz.pp.ua/) | 🏠 Ukrainian private Minecraft SMP, invite only _(dead)_ |
-| [**SvinoCraft**](https://svin.aartzz.pp.ua/) | 🐷 Ukrainian political Minecraft Server |
+| [**SvinoCraft**](https://github.com/svinocraft) | 🐷 Ukrainian political Minecraft Server |
 
 ---
 
